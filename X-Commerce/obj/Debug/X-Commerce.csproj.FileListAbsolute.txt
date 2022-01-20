@@ -1,0 +1,60 @@
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe.config
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\bin\Debug\X-Commerce.pdb
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\bin\Debug\FontAwesome.Sharp.dll
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X-Commerce.exe
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X-Commerce.pdb
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.ClientesLookUp.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.EliminarItem.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Facturar.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Ventas.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Login.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.PagoCtaCte.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Empleados.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.NuevoEmpleado.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Productos.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.NuevoProducto.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.ProductoLookUp.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.AjusteStock.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.NuevoCliente.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Clientes.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.CuentaCorrientes.resources
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+C:\PC\FACULTAD\TECNOLOGICA( UTN )\Materias 1er Cuatrimestre\FINALES\Laboratorio 1\X-Commerce\X-Commerce\obj\Debug\X_Commerce.CambiarCantidad.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe.config
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\bin\Debug\X-Commerce.pdb
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.CambiarCantidad.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.ClientesLookUp.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.EliminarItem.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Facturar.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Ventas.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Login.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.PagoCtaCte.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.CuentaCorrientes.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Empleados.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.NuevoEmpleado.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Productos.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.NuevoProducto.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.AjusteStock.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.NuevoCliente.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Clientes.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X-Commerce.exe
+C:\Users\josef\Desktop\X-Commerce(TERMINADO)\X-Commerce\X-Commerce\obj\Debug\X-Commerce.pdb
